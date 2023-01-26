@@ -73,7 +73,7 @@ struct ContentView: View {
                 TextField("Add New Note", text: $text)
                 
                 Button {
-                    // 1. Only run the button's action when te text field is not empty
+                    // 1. Only run the button's action when the text field is not empty
                     guard text.isEmpty == false else { return }
                     
                     // 2. Create a new note item it with the text value
