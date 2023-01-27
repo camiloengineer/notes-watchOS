@@ -28,9 +28,11 @@ _Application for Apple Watch that was developed using the SwiftUI framework_
 
 <br/>
 
+<div style="display: inline-flex;">
 <img src="https://raw.githubusercontent.com/camiloengineer/notes-watchos/main/screenshots/new-note.gif" alt="New Note" width="200"/>
 <img src="https://raw.githubusercontent.com/camiloengineer/notes-watchos/main/screenshots/delete.gif" alt="Delete Note" width="200"/>
 <img src="https://raw.githubusercontent.com/camiloengineer/notes-watchos/main/screenshots/settings.gif" alt="Settings" width="200"/>
+</div>
 
 <br/>
 
