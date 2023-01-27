@@ -4,9 +4,31 @@ _Application for Apple Watch that was developed using the SwiftUI framework_
 
 <br/>
 
-## Starting 🚀
+## Description ⌚️
 
-_This knowledge was acquired thanks to a tutorial from Credo Academy: [visit website](https://credo.academy/)._
+### 1. Features 🚀
+
+* Standalone Apple Watch application.
+* Permanently save notes and store data on the Watch.
+* Use Swift's Codable protocol for serialization.
+* Multiple views and navigate between views.
+* Create custom user interface elements.
+* Show SwiftUI views conditionally.
+* Input tools: Dictate, Scribble, Emoji, Type.
+* SwiftUI's Slider element.
+
+<br/>
+
+### 2. Design 🎨
+
+* Native Watch Design
+* Watch App Icon
+* User Interface Guidelines
+* Custom Buttom
+
+<br/>
+
+## Installation 🖥️
 
 _In case you want to get a copy of the project on your local machine for development and testing purposes, you can follow these instructions._
 
@@ -18,7 +40,7 @@ _You need to have [Xcode](https://developer.apple.com/xcode/) installed. Note th
 
 <br/>
 
-### 2. Installation 🔧
+### 2. Open Project  🔧
 
 _the first step is to clone the project to your local_
 
@@ -39,7 +61,7 @@ Command + R
 
 <br/>
 
-### Unit Testing 🔩
+### 3. Unit Testing 🔩
 
 _At the moment this project has no tests, but you can integrate new tests and run them._
 
@@ -51,10 +73,10 @@ Command + U
 
 ## TestFlight 📦
 
-_Coming soon_
+_The beta testing has a time limit of 90 days, so you can coordinate with me to send you an invitation as an internal user._
 
 ```
-lorem ipsum
+camilo@camiloengineer.com
 ```
 
 <br/>
@@ -71,13 +93,21 @@ _These tools were used to create the project_
 
 ## Author ✒️
 
-* **Robert Petras** in his tutorial "[Notes App](https://store.credo.academy/swiftui-app-notes)" (2022).
+* **Camilo Engineer** - [LinkedIn](https://www.linkedin.com/in/camiloengineer/) | [Portfolio](https://www.camiloengineer.com/).
+
+<br/>
+
+## References  📖
+
+* **Robert Petras** in his tutorial at Credo Academy "[Notes App](https://store.credo.academy/swiftui-app-notes)" (2022).
 
 <br/>
 
 ## Expressions of Gratitude 🎁
 
-* Tell others about this project 📢
-* Let's talk about new projects ☕. 
+<br/>
+
+* Tell others about this project 📢.
+* Let's talk about new projects in Swift ☕. 
 
 ---

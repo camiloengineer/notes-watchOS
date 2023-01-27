@@ -30,7 +30,7 @@ struct CreditsView: View {
             HeaderView(title: "Credits")
         
             // CONTENT
-            Text("Robert Petras")
+            Text("Camilo Engineer")
                 .foregroundColor(.primary)
                 .fontWeight(.bold)
             
