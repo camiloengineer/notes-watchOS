@@ -28,6 +28,12 @@ _Application for Apple Watch that was developed using the SwiftUI framework_
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/camiloengineer/notes-watchos/main/screenshots/new-note.gif" alt="New Note" width="200"/>
+<img src="https://raw.githubusercontent.com/camiloengineer/notes-watchos/main/screenshots/delete.gif" alt="Delete Note" width="200"/>
+<img src="https://raw.githubusercontent.com/camiloengineer/notes-watchos/main/screenshots/settings.gif" alt="Settings" width="200"/>
+
+<br/>
+
 ## Installation 🖥️
 
 _In case you want to get a copy of the project on your local machine for development and testing purposes, you can follow these instructions._
